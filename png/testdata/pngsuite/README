@@ -1,0 +1,3 @@
+Only 1-bit test images were left here.
+*.sng files had to be regenerated and then manually edited due to the sng tool
+seemingly having trouble with 1-bit images with current libpng version.
